@@ -1,0 +1,5 @@
+POC Name	Deployed Platform	Current Status	Task Assigned Date	Completed Task
+Doctrans	Lightning AI	In Working	15/06/2026	"1. Backend Stability: Upgraded the translation core to a modern library to fix Python version crashes.
+2. Word Formatting Preservation: Engineered surgical translation to keep all original bold, italic, and layout formatting intact in DOCX files.
+3. UI/UX Overhaul: Built a dynamic 2-column Excel translation dashboard, added premium engine toggle switches (EXL Engine vs Google), and included Hindi support.
+4. API & Deployment Fixes: Resolved network routing errors, restored missing UI styling code, and disabled unstable frontend compilers to guarantee freeze-free loading on Lightning AI."
